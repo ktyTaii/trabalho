@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(56, 105, 73);
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(9, 51, 30)e;
+    text-align: center;
+    color: rgb(8, 61, 8);
+    padding: 20px;
+}
+
+main {
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
